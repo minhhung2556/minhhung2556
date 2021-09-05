@@ -18,7 +18,8 @@ I started my Romantic Project since 2019, and work on it everyday.
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_add_to_cart_button/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_add_to_cart_button)
 [<img src="https://www.payoo.vn/website/static/css/image/payoo-logo.png" width="176" />](https://pub.dev/packages/flutter_payoo_vn)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_horizontal_featured_list/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_horizontal_featured_list)
-[![](./netflix.gif)](https://minhhung2556.medium.com/romantic-project-how-to-create-the-netflix-logo-animation-in-flutter-ae20b40d6a7f)
+
+[<img src="./netflix.gif" width="176" />](https://minhhung2556.medium.com/romantic-project-how-to-create-the-netflix-logo-animation-in-flutter-ae20b40d6a7f)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_rating_stars/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_rating_stars)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_collapsing_toolbar/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_collapsing_toolbar)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_folding_card/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_folding_card)
