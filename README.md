@@ -1,12 +1,16 @@
 ### 👋 &nbsp; Hi there, I'm Hưng - aka [Romantic Developer](https://romanticdeveloper.com)
 
-I'm a romantic mobile developer, a responsible employee, a motivated person, a friendly daddy, an honest friend, and a handsome husband.
+I'm a romantic mobile developer, a friendly daddy, an honest friend.
 
 - 🌈  &nbsp; Making Mobile Application Development more romantic is my passion.
 - ✨ &nbsp; Keep everything simple in mind. Unidirectional workflow for code and life.​
 - 💻 &nbsp; I have a demonstrated history of working in Mobile Development. With more than 8 years of working experience and deep knowledge in mobile as well as team management skills.
 - 🏍 &nbsp; I love coffee with milk, gym, customizing motorcycle, playing FPS games and drawing.
-- 🤝 &nbsp; I've done more than 5 presentations at many companies.
+
+<br />
+
+[<img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="176" />](https://www.buymeacoffee.com/minhhung2556)
+
 <br />
 
 ### 🔥 Romantic Project:
