@@ -38,7 +38,7 @@ See more details:
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="26px" /> Pub.dev](https://pub.dev/publishers/romanticdeveloper.com/packages)
 
--  [<img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-512.png" width="26px" /> Medium](https://minhhung2556.medium.com/)
+-  [<img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-512.png" width="26px" /> Medium](https://romanticdeveloper.medium.com/)
 
 <br />
 
