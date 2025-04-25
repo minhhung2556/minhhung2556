@@ -1,0 +1,106 @@
+{
+  "profile": {
+    "name": "Luong Do Minh Hung",
+    "title": "Romantic Developer | Principal Software Engineer | Flutter Expert",
+    "downloadCv": "Download CV"
+  },
+  "skills": [
+    {"name": "Flutter", "icon": "developer_mode"},
+    {"name": "React Native", "icon": "phone_android"},
+    {"name": "Payment Systems", "icon": "payment"},
+    {"name": "Clean Architecture", "icon": "architecture"},
+    {"name": "CI/CD", "icon": "build"},
+    {"name": "Agile Methodologies", "icon": "group_work"},
+    {"name": "Team Leadership", "icon": "person"},
+    {"name": "ReactJS", "icon": "web"}
+  ],
+  "skillsSectionTitle": "My Skills",
+  "portfolioSectionTitle": "My Works",
+  "projects": [
+    {
+      "title": "Global Mobile App (GMA)",
+      "description": "Led development of Digital Payment & Transaction Stream for Home Credit Vietnam, including mobile top-up, bill payment, and QR payment. Transitioned native apps to Flutter, saving €10K annually.",
+      "image": "https://picsum.photos/500/300?random=1",
+      "link": "https://www.homecredit.vn/ung-dung-home-credit",
+      "responsibilities": [
+        "Transitioned native mobile developers to Flutter.",
+        "Developed key features like mobile top-up, bill payment, QR payment, and Home PayLater.",
+        "Set standards and guidelines for Mobile Application Development.",
+        "Supported hiring and coaching mobile developers.",
+        "Proposed technical standards to save costs and accelerate development.",
+        "Investigated and resolved security issues."
+      ],
+      "achievements": [
+        "Saved €10K annually by replacing an ineffective SDK.",
+        "Reduced app size by 20-50%.",
+        "Transitioned native apps to a Flutter plugin.",
+        "Scaled GMA VN team from 3 to 5 cross-functional teams of 10 members each.",
+        "Presented at Home Credit’s first TechTalk event.",
+        "Recognized as a DNA Star for leadership qualities."
+      ]
+    },
+    {
+      "title": "Sendo E-Commerce App",
+      "description": "Transformed Sendo’s mobile app to Flutter, introducing features like SenPay e-wallet, flash sales, and mini-games. Scaled team to 10 cross-functional units.",
+      "image": "https://picsum.photos/500/300?random=2",
+      "link": "https://www.sendo.vn/su-kien/gioi-thieu-sendo-app/",
+      "responsibilities": [
+        "Transformed native mobile developers to Flutter.",
+        "Developed digital payment services (phone top-up, bill payments, air tickets).",
+        "Introduced event templates, flash sales, and mini-games.",
+        "Set standards and guidelines for Mobile Application Development.",
+        "Supported hiring and coaching mobile developers.",
+        "Proposed technical standards to save costs."
+      ],
+      "achievements": [
+        "Trained Flutter engineers, including Flutter Vietnam Admin.",
+        "Released Vietnam’s first super-app using Flutter.",
+        "Scaled to 10 cross-functional teams.",
+        "Presented at internal TechTalk sessions."
+      ]
+    },
+    {
+      "title": "SenPay E-Wallet",
+      "description": "Built and published SenPay Android app from scratch, integrating digital payment services like phone top-up and bill payments.",
+      "image": "https://picsum.photos/500/300?random=3",
+      "link": "https://senpay.vn/",
+      "responsibilities": [
+        "Built architecture and solutions for the Android app.",
+        "Published SenPay Android app on Google Play Store.",
+        "Developed digital payment services (phone top-up, bill payments).",
+        "Supported hiring and coaching mobile developers.",
+        "Proposed technical standards to save costs."
+      ],
+      "achievements": [
+        "Promoted to lead Sendo Android developers.",
+        "Advanced to Mobile Team Leader at Sendo."
+      ]
+    },
+    {
+      "title": "iCareBenefits",
+      "description": "Developed multiple Android apps for iCareBenefits, including e-commerce and delivery tracking solutions, contributing to digital transformation.",
+      "image": "https://picsum.photos/500/300?random=4",
+      "link": "",
+      "responsibilities": [
+        "Built architecture and solutions for Android apps.",
+        "Developed apps like iCareMember, FieldSale, and Delivery Tracking.",
+        "Published iCareBenefits Android app on Google Play Store."
+      ],
+      "achievements": [
+        "Published multiple internal apps for digital transformation.",
+        "Released the first version of iCareBenefits Android app."
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "email": "minhhung2556@gmail.com",
+    "phone": "+84 775005110",
+    "github": "github.com/<your-username>",
+    "medium": "medium.com/<your-username>"
+  },
+  "buttons": {
+    "viewProject": "View Project",
+    "visitWebsite": "Visit Project Website"
+  }
+}

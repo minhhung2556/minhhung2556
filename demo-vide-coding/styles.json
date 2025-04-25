@@ -1,0 +1,40 @@
+{
+  "colors": {
+    "primaryColor": "#1A1A1A",
+    "secondaryColor": "#2A2A2A",
+    "backgroundColor": "#1A1A1A",
+    "accentColor": "#00FFFF",
+    "accentHoverColor": "#00CCCC",
+    "cardColor": "#2A2A2A",
+    "borderColor": "#3A3A3A",
+    "shadowColor": "#000000",
+    "textColor": "#FFFFFF",
+    "textSecondaryColor": "#B0B0B0"
+  },
+  "dimensions": {
+    "skillCardWidth": 200,
+    "skillCardHeight": 120,
+    "skillCardPadding": 16,
+    "skillIconSize": 36,
+    "skillTextSize": 16,
+    "sectionPaddingVertical": 80,
+    "sectionPaddingHorizontal": 32,
+    "heroHeight": 600,
+    "titleFontSize": 36,
+    "subtitleFontSize": 20,
+    "portfolioCardWidth": 800,
+    "portfolioImageHeight": 300,
+    "portfolioTitleSize": 24,
+    "portfolioTextSize": 16,
+    "detailImageHeight": 400,
+    "detailTitleSize": 28,
+    "detailTextSize": 16,
+    "detailSubtitleSize": 22,
+    "detailBulletSize": 14,
+    "footerPadding": 60,
+    "contactTextSize": 16,
+    "iconButtonSize": 24,
+    "iconButtonPadding": 12,
+    "navBarHeight": 60
+  }
+}
