@@ -1,28 +1,18 @@
 ### 👋 &nbsp; Hi there, I'm Hưng - aka [Romantic Developer](https://romanticdeveloper.com)
-
-I'm a romantic mobile developer, a friendly daddy, an honest friend.
-
-- 🌈  &nbsp; Making Mobile Application Development more romantic is my passion.
-- ✨ &nbsp; Keep everything simple in mind. Unidirectional workflow for code and life.​
-- 💻 &nbsp; I have a demonstrated history of working in Mobile Development. With more than 8 years of working experience and deep knowledge in mobile as well as team management skills.
-- 🏍 &nbsp; I love coffee with milk, gym, customizing motorcycle, playing FPS games and drawing.
-
-<br />
-
-[<img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="176" />](https://www.buymeacoffee.com/minhhung2556)
-
-<br />
+I’m Romantic Developer. 
+I’ve built mobile apps for 13+ yrs, used by millions.
+I’m continuously making IT community more romantic, impressed by thousands.
+I keep learning new skills like AI & higher education.
 
 ### 🔥 Romantic Project:
-I started my Romantic Project since 2019, and work on it everyday.
-<br />
-- ⛳ &nbsp; Target on 2021 is at least 30 presents.
 
+[<img src="https://github.com/minhhung2556/romantic_project_flutter_animated_barcode_scanner/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_animated_barcode_scanner)
+[<img src="https://github.com/minhhung2556/romantic_project_flutter_bouncing_text/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_bouncing_text)
+[<img src="https://github.com/minhhung2556/romantic_project_flutter_jelly_tab_bar/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_jelly_tab_bar)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_story_list/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_story_list)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_add_to_cart_button/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_add_to_cart_button)
 [<img src="https://www.payoo.vn/website/static/css/image/payoo-logo.png" width="176" />](https://pub.dev/packages/flutter_payoo_vn)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_horizontal_featured_list/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_horizontal_featured_list)
-
 [<img src="./netflix.gif" width="176" />](https://minhhung2556.medium.com/romantic-project-how-to-create-the-netflix-logo-animation-in-flutter-ae20b40d6a7f)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_rating_stars/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_rating_stars)
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_collapsing_toolbar/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_collapsing_toolbar)
@@ -34,11 +24,10 @@ I started my Romantic Project since 2019, and work on it everyday.
 [<img src="https://github.com/minhhung2556/romantic_project_flutter_fractal/raw/master/demo.gif" width="176" />](https://pub.dev/packages/flutter_fractal)
 
 <br />
-See more details:
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="26px" /> Pub.dev](https://pub.dev/publishers/romanticdeveloper.com/packages)
-
--  [<img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-512.png" width="26px" /> Medium](https://romanticdeveloper.medium.com/)
+- [<img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-512.png" width="26px" /> Medium](https://romanticdeveloper.medium.com/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" width="26px" /> Facebook](https://www.facebook.com/profile.php?id=61580472621835)
 
 <br />
 
@@ -48,6 +37,7 @@ See more details:
 [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />]()
 [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />]()
 [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />]()
+[<img width="26px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />]()
 ...
 <br />
 
